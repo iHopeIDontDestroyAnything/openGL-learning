@@ -1,3 +1,5 @@
 # openGL-learning
-unzip glew-2.1.0.zip   
+clone glfw and glew into dependencies  
+https://github.com/nigels-com/glew.git
+https://github.com/glfw/glfw.git  
 cmake -S . -B build  
